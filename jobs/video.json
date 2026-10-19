@@ -1,0 +1,11 @@
+{
+  "kind": "video",
+  "model": "seedance-2-mini",
+  "prompt": "A slow elegant camera push toward the ceramic coffee cup. Delicate steam curls upward; soft natural window light and subtle moving shadows. Keep the cup, spoon and napkin consistent with the first frame. One continuous shot, no cuts, no text, no audio.",
+  "duration": 4,
+  "resolution": "720p",
+  "aspect_ratio": "16:9",
+  "generate_audio": false,
+  "run_id": "1019-nodetool-seedance-2-mini",
+  "first_frame_file": "examples/gpt-image-2-vip.png"
+}

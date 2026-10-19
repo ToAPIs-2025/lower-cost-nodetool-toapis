@@ -1,0 +1,8 @@
+{
+  "kind": "image",
+  "model": "gpt-image-2",
+  "prompt": "Cinematic wide 16:9 product storyboard still: a matte terracotta ceramic coffee cup on a pale stone plinth in a sunlit design studio, steam gently rising, one copper spoon and one linen napkin, strong natural shadows, warm cream and rust palette, high-end original product photography, no logo, no text, no people, no watermark.",
+  "size": "1536x864",
+  "n": 1,
+  "run_id": "1019-nodetool-gpt-image-2"
+}
