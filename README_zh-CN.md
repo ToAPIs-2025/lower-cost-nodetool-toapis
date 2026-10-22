@@ -1,5 +1,10 @@
 # ToAPIs · 更低成本的 NodeTool 图片与视频素材方案
 
+<!-- TOAPIS-PROJECT-LINKS-20261022 -->
+[ToAPIs 官网首页](https://home.toapis.com/NodeTool) · [模型价格](https://pricing.toapis.com/NodeTool)
+<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+
+
 
 <!-- TOAPIS-MODELS-20261020 -->
 ## 模型与价格更新 · 2026-10-20
@@ -43,7 +48,7 @@ gpt-image-2(VIP)通用价格为$0.0019/image起；本例low/1K为$0.0019/image�
 
 同一个提示词，三个图片模型，保留原图、调用代码、参数和价格。另附一条首帧视频。
 
-[English](README.md) · [对应模型与价格](https://go2v.toapis.com/1019_node_g) · [原项目](https://github.com/nodetool-ai/nodetool)
+[English](README.md) · [对应模型与价格](https://pricing.toapis.com/NodeTool) · [原项目](https://github.com/nodetool-ai/nodetool)
 
 ToAPIs 独立维护的社区教程。当前验证边界：Loopback OpenAI-compatible bridge for existing custom image/video endpoints; app UI pending。这不是上游官方发行版或完整UI验收。
 

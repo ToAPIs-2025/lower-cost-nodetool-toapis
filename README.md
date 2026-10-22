@@ -1,5 +1,10 @@
 # ToAPIs · Lower-cost NodeTool media guide
 
+<!-- TOAPIS-PROJECT-LINKS-20261022 -->
+[ToAPIs homepage](https://home.toapis.com/NodeTool) · [Model pricing](https://pricing.toapis.com/NodeTool)
+<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+
+
 
 <!-- TOAPIS-MODELS-20261020 -->
 ## Model support and prices · 2026-10-20
@@ -43,7 +48,7 @@ Original project examples, historical charges and integration instructions follo
 
 Original NodeTool media examples with three image models and a first-frame Seedance clip.
 
-[中文](README_zh-CN.md) · [Model & pricing](https://go2v.toapis.com/1019_node_g) · [Upstream](https://github.com/nodetool-ai/nodetool)
+[中文](README_zh-CN.md) · [Model & pricing](https://pricing.toapis.com/NodeTool) · [Upstream](https://github.com/nodetool-ai/nodetool)
 
 **Community guide operated by ToAPIs.** The validated boundary is: Loopback OpenAI-compatible bridge for existing custom image/video endpoints; app UI pending. Individual project UI acceptance is listed below.
 
@@ -102,5 +107,5 @@ Cinematic wide 16:9 product storyboard still: a matte terracotta ceramic coffee 
 
 - [Upstream project](https://github.com/nodetool-ai/nodetool)
 - [Pricing and actual charges](https://docs.toapis.com/docs/en/api-reference/account/pricing)
-- [Try the matching image model](https://go2v.toapis.com/1019_node_g)
-- [Video model page](https://x.toapis.com/1019_node_v)
+- [Try the matching image model](https://pricing.toapis.com/NodeTool)
+- [Video model page](https://pricing.toapis.com/NodeTool)
